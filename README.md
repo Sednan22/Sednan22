@@ -1,7 +1,7 @@
-## Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sednan22)](https://git.io/streak-stats)
 
+Learning never exhausts the mind
 <!--
 **Sednan22/Sednan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
