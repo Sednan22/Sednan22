@@ -1,7 +1,19 @@
+# Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sednan22)](https://git.io/streak-stats)
+> *"Learning never exhausts the mind."* — Leonardo da Vinci
 
-Learning never exhausts the mind
+I'm a self-taught backend developer passionate about building fast APIs, automation tools, and concurrent systems with **Go**.
+
+- ⚡ **Current Focus:** Go (`net/http`, concurrency, WebSockets) & System Architecture
+- 🎯 **Goal:** Mastering low-level engineering and scalable backends
+
+---
+
+### 🔥 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sednan22&theme=dark)](https://git.io/streak-stats)
+
+
 <!--
 **Sednan22/Sednan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
