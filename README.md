@@ -4,7 +4,7 @@
 
 I'm a self-taught backend developer passionate about building fast APIs, automation tools, and concurrent systems with **Go**.
 
-- ⚡ **Current Focus:** Go (`net/http`, concurrency, WebSockets) & System Architecture
+- ⚡ **Current Focus:** Go (net/http, concurrency, WebSockets) & System Architecture
 - 🎯 **Goal:** Mastering low-level engineering and scalable backends
 
 ---
