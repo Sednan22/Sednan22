@@ -1,7 +1,7 @@
 # Hi there 👋
 
 > *"Learning never exhausts the mind."* — Leonardo da Vinci
-> *"Make it work, make it right, make it fast." — Kent Beck
+> *"Make it work, make it right, make it fast."* — Kent Beck
 
 I'm a self-taught backend developer passionate about building fast APIs, automation tools, and concurrent systems with **Go**.
 
